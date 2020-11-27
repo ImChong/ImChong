@@ -7,7 +7,7 @@
 
 - ⚒ As a lifelong learner, it's a great pleasure for me to share my knowledge. 
 - 🔭 I’m currently working on[【Creature_02】](https://www.youtube.com/channel/UCvgaY4CT1vo6QvgaJ-vQnWA)robot development. 
-- 🌱 I’m currently learning topics of C++[【C++ Notes】](https://imchong.github.io/CPP_LearningNotes.github.io/), Data Structure, Mechatronics, Robotics, Control and Artificial Intelligence. 
+- 🌱 I’m currently learning topics of C++[【C++ Notes】](https://imchong.github.io/CPP_Notes.github.io/), Data Structure, Mechatronics, Robotics, Control and Artificial Intelligence. 
 - 🦾 I’m looking to collaborate on robot development from scratch to product.
 - 🤔 I’m looking for various interesting algorithms to apply on the actual robot.
 - 💬 Ask me about any problem related to creature robot development.
