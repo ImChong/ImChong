@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🦾 I’m looking to collaborate on robot development from scratch to product.
 - 🤔 I’m looking for various interesting algorithms to apply on the actual robot.
 - 💬 Ask me about any problem related to creature robot development.
-- ⚒ As a lifelong learner, I'm feeling excited to share my knowledge. 
+- ⚒ As a lifelong learner, it's a great pleasure for me to share my knowledge. 
 <!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
