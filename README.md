@@ -8,7 +8,7 @@
 - ⚒ As a lifelong learner, it's a great pleasure for me to share my knowledge. 
 - 🦾 I’m looking to collaborate on robot development from scratch to product.
 - 🤔 I’m looking for various interesting algorithms to apply on the actual robot.
-- 💬 Ask me about any problem related to creature robot development.
+- 💬 Ask me about any problem related to creature02 robot development.
 
 
 
