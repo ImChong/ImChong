@@ -1,6 +1,6 @@
-<p align="center"># Hi 👋, I'm Chong Liu</p>
+<h1 align="center"># Hi 👋, I'm Chong Liu</h1>
 
-<p align="center">## A passionate legged roboticist</p>
+<p align="center">A passionate legged roboticist</p>
 
 - 🔭 I’m currently working on [Practice LeetCode by C language](https://github.com/ImChong/Practice_LeetCode_C)
 
