@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋, I'm Chong Liu</h1>
 <p align="center">A passionate legged roboticist</p>
 
+<br></br>
+
 - 🔭 I’m currently working on [Practice LeetCode by C language](https://github.com/ImChong/Practice_LeetCode_C)
 
 - 🌱 I’m currently learning [Embedded Software on STM32F103](https://github.com/ImChong/Practice_Embedfire_Stm32f103) and [Machine Learning](https://www.youtube.com/watch?v=h2FDq3agImI)
@@ -12,6 +14,8 @@
 - 📫 How to reach me **<chongliu2021@163.com>**
 
 - ⚡ **As a lifelong learner, it's a great pleasure for me to share my knowledge.**
+
+<br></br>
 
 ### Common Used Languages
 
