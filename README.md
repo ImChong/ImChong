@@ -14,7 +14,7 @@
 
 - ⚡ **As a lifelong learner, it's a great pleasure for me to share my knowledge.**
 
-<h3 align="center">### Programming Languages</h1>
+<h3 align="right">Programming Languages</h1>
 
 <!-- **Programming Languages:** -->
 <p align="right">
