@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chong Liu
 
-## A passionate legged roboticist
+A passionate legged roboticist
 
 - 🔭 I’m currently working on [Practice LeetCode by C language](https://github.com/ImChong/Practice_LeetCode_C)
 
