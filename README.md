@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chong Liu</h1>
+<h1 align="center">Hi there👋, I'm Chong Liu</h1>
 
 <p align="center">A passionate legged roboticist</p>
 
@@ -14,7 +14,7 @@
 
 - ⚡ **As a lifelong learner, it's a great pleasure for me to share my knowledge.**
 
-### Programming Languages
+<h3 align="center">### Programming Languages</h1>
 
 <!-- **Programming Languages:** -->
 <p align="right">
