@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Home | Chong Liu](https://chongliu.notion.site/chongliu/Home-Chong-Liu-0b1322f796a4448eae47f8772d130ade).
 
-- 💬 Ask me about c, c++, python, embedded software and robot development process.
+- 💬 Ask me about c, c++, python, embedded software, AI tools and robot development process.
 
 - 📫 Reach me at **<chongliu2021@163.com>**.
 
