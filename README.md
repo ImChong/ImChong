@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Chong Liu</h1>
-<p align="center">A passionate legged roboticist</p>
+<p align="center">A passionate roboticist</p>
 
 <br>
 
