@@ -19,10 +19,10 @@
 
 ### Common Used Languages
 
-<a href="https://www.cprogramming.com/" target="" rel=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="" rel=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.python.org" target="" rel=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" rel=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" rel=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.python.org" rel=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 
-<a href="https://chat.openai.com/" target="" rel=""><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" alt="chatgpt" width="40" height="40"/></a>
-<a href="https://claude.ai/login?returnTo=%2F" target="" rel=""><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="claude" width="40" height="40"/></a>
-<a href="https://bard.google.com/" target="" rel=""><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-bard-icon.png" alt="bard" width="40" height="40"/></a>
+<a href="https://chat.openai.com/" rel=""><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" alt="chatgpt" width="40" height="40"/></a>
+<a href="https://claude.ai/login?returnTo=%2F" rel=""><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="claude" width="40" height="40"/></a>
+<a href="https://bard.google.com/" rel=""><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-bard-icon.png" alt="bard" width="40" height="40"/></a>
