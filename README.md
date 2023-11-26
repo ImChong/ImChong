@@ -29,6 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 
+
 <a href="https://chat.openai.com/" target="" rel="">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" alt="chatgpt" width="40" height="40"/>
 </a>
