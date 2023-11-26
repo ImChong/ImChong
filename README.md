@@ -23,6 +23,6 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a>
 
-<a align="right" href="https://chat.openai.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" alt="chatgpt" width="35" height="35"/></a>
-<a align="right" href="https://claude.ai/login?returnTo=%2F" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="claude" width="35" height="35"/></a>
-<a align="right" href="https://bard.google.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-bard-icon.png" alt="bard" width="35" height="35"/></a>
+<a href="https://chat.openai.com/" target="_blank"><img align="right" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" alt="chatgpt" width="35" height="35"/></a>
+<a href="https://claude.ai/login?returnTo=%2F" target="_blank"><img align="right" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="claude" width="35" height="35"/></a>
+<a href="https://bard.google.com/" target="_blank"><img align="right" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-bard-icon.png" alt="bard" width="35" height="35"/></a>
