@@ -15,8 +15,6 @@
 
 - 💡 As a lifelong learner, it's a great pleasure for me to share my knowledge.
 
-<br>
-
 ### Common Used Languages
 
 <p align="left">
