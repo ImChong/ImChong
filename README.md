@@ -17,7 +17,7 @@
 
 <br>
 
-### Programming Languages / Platforms
+### Programming Languages
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="35" height="35"/></a>
@@ -25,7 +25,7 @@
 <a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" width="35" height="35"/></a>
 </p>
 
-### Build / Edit Tools
+### Build Tools
 
 <p align="left">
 <a href="https://gcc.gnu.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/508px-GNU_Compiler_Collection_logo.svg.png" alt="gcc" width="35" height="35"/></a>
