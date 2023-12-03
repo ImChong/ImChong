@@ -25,6 +25,14 @@
 <a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" width="35" height="35"/></a>
 </p>
 
+### Common Used Build Tools
+
+<p align="left">
+<a href="https://gcc.gnu.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/508px-GNU_Compiler_Collection_logo.svg.png" alt="gcc" width="35" height="35"/></a>
+<a href="https://cmake.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/64px-Cmake.svg.png" alt="cmake" width="35" height="35"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="35" height="35"/></a>
+</p>
+
 ### Common Used Tools
 
 <p align="left">
@@ -32,5 +40,5 @@
 <a href="https://chat.openai.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" alt="chatgpt" width="35" height="35"/></a>
 <a href="https://claude.ai/login?returnTo=%2F" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="claude" width="35" height="35"/></a>
 <a href="https://bard.google.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-bard-icon.png" alt="bard" width="35" height="35"/></a>
-
+<a href="https://grok.x.ai/" target="_blank"><img src="https://grok.x.ai/_next/static/media/inverse_xai_logo_5.adf38dfd.svg" alt="grok" width="35" height="35"/></a>
 </p>
