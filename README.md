@@ -17,20 +17,23 @@
 
 <br>
 
-### Common Used Languages
+### Programming Languages
 
-<div style="float: left;">
+<p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="35" height="35"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="cplusplus" width="35" height="35"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" width="35" height="35"/></a>
-</div>
-<div style="float: right;">
+</p>
+
+### Build Tools
+
+<p align="left">
 <a href="https://gcc.gnu.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/508px-GNU_Compiler_Collection_logo.svg.png" alt="gcc" width="35" height="35"/></a>
 <a href="https://cmake.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/64px-Cmake.svg.png" alt="cmake" width="35" height="35"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="35" height="35"/></a>
-</div>
+</p>
 
-### Common Used AI Tools
+### AI Tools
 
 <p align="left">
 <a href="https://github.com/features/copilot" target="_blank"><img src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.139.579/1701447163839/Microsoft.VisualStudio.Services.Icons.Default" alt="copilot" width="35" height="35"/></a>
