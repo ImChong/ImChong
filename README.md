@@ -23,8 +23,6 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="35" height="35"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="cplusplus" width="35" height="35"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" width="35" height="35"/></a>
-<a href="https://www.st.com/content/st_com/en.html" target="_blank"><img src="https://www.st.com/content/dam/ecosystems/stm32-gui/stm32-logo.png" alt="stm32" width="35" height="35"/></a>
-
 </p>
 
 ### Build / Edit Tools
