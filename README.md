@@ -33,7 +33,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="35" height="35"/></a>
 </p>
 
-<h3 align="right">AI Tools</h3>
+<h3 align="right">Common Used AI Tools</h3>
 
 <p align="right">
 <a href="https://github.com/features/copilot" target="_blank"><img src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.139.579/1701447163839/Microsoft.VisualStudio.Services.Icons.Default" alt="copilot" width="35" height="35"/></a>
