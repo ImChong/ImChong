@@ -24,11 +24,11 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="cplusplus" width="35" height="35"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" width="35" height="35"/></a>
 </div>
-<p align="right">
+<div style="float: right;">
 <a href="https://gcc.gnu.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GNU_Compiler_Collection_logo.svg/508px-GNU_Compiler_Collection_logo.svg.png" alt="gcc" width="35" height="35"/></a>
 <a href="https://cmake.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/64px-Cmake.svg.png" alt="cmake" width="35" height="35"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="35" height="35"/></a>
-</p>
+</div>
 
 ### Common Used AI Tools
 
