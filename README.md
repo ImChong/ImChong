@@ -11,7 +11,7 @@
 
 - 💬 Ask me about c, c++, python, embedded software, AI tools and robot development process.
 
-- 📫 Reach me at <chongliu2021@163.com>.
+- 📫 Reach me at <chongliu2021@163.com> or drop an issue / discussion in the corresponding repositories.
 
 - 💡 As a lifelong learner, it's a great pleasure for me to share my knowledge.
 
