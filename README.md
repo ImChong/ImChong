@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [Practice LeetCode by C language](https://github.com/ImChong/Practice_LeetCode_C).
+- 🔭 I’m currently working on [Practice LeetCode by C language](https://github.com/ImChong/Practice_LeetCode_C) and [ROS2 Control Demos Practice](https://github.com/ImChong/ros2_ctrl_ws).
 
 - 🌱 I’m currently learning [Embedded Software on STM32F103](https://github.com/ImChong/Practice_Embedfire_Stm32f103) and [Understanding Deep Learning](https://udlbook.github.io/udlbook/).
 
