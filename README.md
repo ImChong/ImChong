@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on  and [ROS2 Control Demos Practice](https://github.com/ImChong/ros2_ctrl_ws).
+- 🔭 I’m currently working on  and [ROS2 Control Framework Demos](https://github.com/ImChong/ROS2_Control_WorkSpace).
 
 - 🌱 I’m currently learning [Understanding Deep Learning](https://udlbook.github.io/udlbook/) and [Embedded Software on STM32F103](https://github.com/ImChong/Practice_Embedfire_Stm32f103).
 
