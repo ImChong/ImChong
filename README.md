@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on  and [Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks).
+- 🔭 I’m currently working on [Humanoid_Robot_Learning_Paper_Notebooks](https://github.com/ImChong/Humanoid_Robot_Learning_Paper_Notebooks) and [Robotics_Notebooks](https://github.com/ImChong/Robotics_Notebooks).
 
 - 🌱 I’m currently learning [IsaacGym](https://docs.robotsfan.com/isaacgym/index.html) and [MimicKit](https://github.com/xbpeng/MimicKit).
 
