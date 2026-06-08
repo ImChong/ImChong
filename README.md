@@ -3,9 +3,17 @@
 
 <br>
 
-- 🔭 I’m currently working on customized motion control solutions for humanoid robots at [BridgeDP Robotics](https://imchong.github.io/experience/bridgedp.html), alongside [Humanoid Robot Learning Paper Notebooks](https://imchong.github.io/Humanoid_Robot_Learning_Paper_Notebooks/), [Robotics Tech Stack](https://imchong.github.io/Robotics_Notebooks/), and [RL Sim2Sim Demo Website](https://imchong.github.io/RL_Sim2Sim_Demo_Website/).
+- 🔭 I’m currently working on customized motion control solutions for humanoid robots at [BridgeDP Robotics](https://imchong.github.io/experience/bridgedp.html), alongside:
+  - [Humanoid Robot Learning Paper Notebooks](https://imchong.github.io/Humanoid_Robot_Learning_Paper_Notebooks/)
+  - [Robotics Tech Stack](https://imchong.github.io/Robotics_Notebooks/)
+  - [RL Sim2Sim Demo Website](https://imchong.github.io/RL_Sim2Sim_Demo_Website/)
 
-- 🌱 I’m currently learning [Isaac Gym](https://developer.nvidia.com/isaac-gym), [Isaac Lab](https://github.com/isaac-sim/IsaacLab), [MimicKit](https://github.com/xbpeng/MimicKit), [mjlab](https://github.com/mujocolab/mjlab), and the papers in [Humanoid Robot Learning Paper Notebooks](https://imchong.github.io/Humanoid_Robot_Learning_Paper_Notebooks/).
+- 🌱 I’m currently learning:
+  - [Isaac Gym](https://developer.nvidia.com/isaac-gym)
+  - [Isaac Lab](https://github.com/isaac-sim/IsaacLab)
+  - [MimicKit](https://github.com/xbpeng/MimicKit)
+  - [mjlab](https://github.com/mujocolab/mjlab)
+  - the papers in [Humanoid Robot Learning Paper Notebooks](https://imchong.github.io/Humanoid_Robot_Learning_Paper_Notebooks/)
 
 - 👨‍💻 All of my projects are available at [Home | Chong Liu](https://imchong.github.io/).
 
