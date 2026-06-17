@@ -4,10 +4,11 @@
 <br>
 
 - 🔭 I’m currently working on customized motion control solutions for humanoid robots at [BridgeDP Robotics](https://imchong.github.io/experience/bridgedp.html), alongside:
-  - [Humanoid Robot Learning Paper Notebooks](https://imchong.github.io/Humanoid_Robot_Learning_Paper_Notebooks/)
   - [Robotics Tech Stack](https://imchong.github.io/Robotics_Notebooks/)
-  - [RL Sim2Sim Demo Website](https://imchong.github.io/RL_Sim2Sim_Demo_Website/)
+  - [Humanoid Robot Learning Paper Notebooks](https://imchong.github.io/Humanoid_Robot_Learning_Paper_Notebooks/)
   - [Robot Retarget Online](https://github.com/ImChong/Robot_Retarget_Online)
+  - [RL Sim2Sim Demo Website](https://imchong.github.io/RL_Sim2Sim_Demo_Website/)
+
 
 - 🌱 I’m currently learning:
   - [Isaac Gym](https://developer.nvidia.com/isaac-gym)
