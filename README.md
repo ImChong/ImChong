@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on customized motion control solutions for humanoid robots at [BridgeDP Robotics](https://imchong.github.io/experience/bridgedp.html), alongside:
   - [Robotics Tech Stack](https://imchong.github.io/Robotics_Notebooks/)
   - [Humanoid Robot Learning Paper Notebooks](https://imchong.github.io/Humanoid_Robot_Learning_Paper_Notebooks/)
+  - [Robot_Joint_Order_Check_Tool](https://github.com/ImChong/Robot_Joint_Order_Check_Tool)
   - [Robot Retarget Online](https://github.com/ImChong/Robot_Retarget_Online)
   - [RL Sim2Sim Demo Website](https://imchong.github.io/RL_Sim2Sim_Demo_Website/)
 
