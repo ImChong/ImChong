@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently working on customized motion control solutions for humanoid robots at [BridgeDP Robotics](https://imchong.github.io/experience/bridgedp.html), alongside:
-  - [Robotics Tech Stack](https://imchong.github.io/Robotics_Notebooks/)
+  - [Robotics Notebooks](https://imchong.github.io/Robotics_Notebooks/)
   - [Humanoid Robot Learning Paper Notebooks](https://imchong.github.io/Humanoid_Robot_Learning_Paper_Notebooks/)
   - [Robot Joint Order Check Tool](https://imchong.github.io/Robot_Joint_Order_Check_Tool/)
   - [Robot Retarget Online](https://imchong.github.io/Robot_Retarget_Online/#/bvh)
