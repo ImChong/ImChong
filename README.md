@@ -5,12 +5,12 @@
 
 - 🔭 I’m currently working on customized motion control solutions for humanoid robots at [BridgeDP Robotics](https://imchong.github.io/experience/bridgedp.html), alongside:
   - [Robotics Notebooks](https://imchong.github.io/Robotics_Notebooks/)
-  - [Robot Learning Paper Notebooks](https://imchong.github.io/Humanoid_Robot_Learning_Paper_Notebooks/)
-  - [Robot URDF Gallery Online](https://imchong.github.io/Robot_URDF_Gallery/web/)
-  - [Robot Joint Order Check Tool Online](https://imchong.github.io/Robot_Joint_Order_Check_Tool/)
+  - [Robot Learning Paper Notebooks](https://imchong.github.io/Robot_Learning_Paper_Notebooks/)
+  - [Robot URDF Gallery Online](https://imchong.github.io/Robot_URDF_Gallery_Online/web/)
+  - [Robot Joint Order Check Tool Online](https://imchong.github.io/Robot_Joint_Order_Check_Tool_Online/)
   - [Robot Retarget Online](https://imchong.github.io/Robot_Retarget_Online/#/bvh)
-  - [Robot Learning IO Board Online](https://imchong.github.io/Robot_Learning_IO_Board/?p=mimickit-deepmimic&mode=train)
-  - [Robot Learning Sim2Sim Online](https://imchong.github.io/RL_Sim2Sim_Demo_Website/)
+  - [Robot Learning IO Board Online](https://imchong.github.io/Robot_Learning_IO_Board_Online/?p=mimickit-deepmimic&mode=train)
+  - [Robot Learning Sim2Sim Online](https://imchong.github.io/Robot_Learning_Sim2Sim_Online/)
 
 
 - 🌱 I’m currently learning:
@@ -18,7 +18,7 @@
   - [Isaac Lab](https://github.com/isaac-sim/IsaacLab)
   - [MimicKit](https://github.com/xbpeng/MimicKit)
   - [mjlab](https://github.com/mujocolab/mjlab)
-  - the papers in [Robot Learning Paper Notebooks](https://imchong.github.io/Humanoid_Robot_Learning_Paper_Notebooks/)
+  - the papers in [Robot Learning Paper Notebooks](https://imchong.github.io/Robot_Learning_Paper_Notebooks/)
 
 - 👨‍💻 All of my projects are available at [Home | Chong Liu](https://imchong.github.io/).
 
