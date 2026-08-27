@@ -18,7 +18,7 @@
   - [Isaac Lab](https://github.com/isaac-sim/IsaacLab)
   - [MimicKit](https://github.com/xbpeng/MimicKit)
   - [mjlab](https://github.com/mujocolab/mjlab)
-  - the papers in [Humanoid Robot Learning Paper Notebooks](https://imchong.github.io/Humanoid_Robot_Learning_Paper_Notebooks/)
+  - the papers in [Robot Learning Paper Notebooks](https://imchong.github.io/Humanoid_Robot_Learning_Paper_Notebooks/)
 
 - 👨‍💻 All of my projects are available at [Home | Chong Liu](https://imchong.github.io/).
 
