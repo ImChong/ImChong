@@ -10,7 +10,7 @@
   - [Robot Joint Order Check Tool](https://imchong.github.io/Robot_Joint_Order_Check_Tool/)
   - [Robot Retarget Online](https://imchong.github.io/Robot_Retarget_Online/#/bvh)
   - [Robot Learning IO Board](https://imchong.github.io/Robot_Learning_IO_Board/?p=mimickit-deepmimic&mode=train)
-  - [RL Sim2Sim Demo Website](https://imchong.github.io/RL_Sim2Sim_Demo_Website/)
+  - [Robot Learning Sim2Sim Online](https://imchong.github.io/RL_Sim2Sim_Demo_Website/)
 
 
 - 🌱 I’m currently learning:
