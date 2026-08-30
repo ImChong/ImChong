@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on customized motion control solutions for humanoid robots at [BridgeDP Robotics](https://imchong.github.io/experience/bridgedp.html), alongside:
   - [Robotics Notebooks](https://imchong.github.io/Robotics_Notebooks/)
   - [Robot Learning Paper Notebooks](https://imchong.github.io/Robot_Learning_Paper_Notebooks/)
-  - [Robot URDF Gallery Online](https://imchong.github.io/Robot_URDF_Gallery_Online/web/)
+  - [Robot Description Gallery Online](https://imchong.github.io/Robot_Description_Gallery_Online/web/)
   - [Robot Joint Order Check Tool Online](https://imchong.github.io/Robot_Joint_Order_Check_Tool_Online/)
   - [Robot Retarget Online](https://imchong.github.io/Robot_Retarget_Online/#/bvh)
   - [Robot Learning IO Board Online](https://imchong.github.io/Robot_Learning_IO_Board_Online/?p=mimickit-deepmimic&mode=train)
